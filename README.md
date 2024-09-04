@@ -20,7 +20,7 @@ Specializing in Node.js, Express.js, MongoDB, and TypeScript. Focused on buildin
 - [Personal GitHub Account](https://github.com/Fawazabdganiyu)
 
 ## Contact Information
-- [LinkedIn Profile URL](https://www.linkedin.com/in/fawaz-abdganiyu/)
+🌐 [LinkedIn](https://www.linkedin.com/in/fawazabdganiyu/)
 
 
 <!---
